@@ -1,5 +1,7 @@
 ## Welcome to Roberts computer progect portfolio
 
+![typing test](https://github.com/curlyboyo/computerportfolio/blob/gh-pages/images/Screenshot%202020-08-27%20at%207.56.38%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/curlyboyo/computerportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
